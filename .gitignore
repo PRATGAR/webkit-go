@@ -1,0 +1,13 @@
+# binaries
+bin/
+*.exe
+*.test
+*.out
+# coverage
+*.coverage
+coverage.out
+# vendor (we use modules)
+vendor/
+# misc
+.DS_Store
+*.log
